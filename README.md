@@ -1,4 +1,4 @@
-# aula-11-10
+# Aula 11/10
 Inicio do segundo bimestre
 
 ## Planejamento do segundo bimestre:

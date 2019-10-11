@@ -1,7 +1,7 @@
-# aula-11-10
+# Aula 11/10
 Inicio do segundo bimestre
 
-Planejamento do segundo bimestre:
+## Planejamento do segundo bimestre:
     - Conhecer as diferentes formas de persistir dados:
         - Arquivos
         - Banco de Dados
